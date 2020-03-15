@@ -69,7 +69,7 @@
 }
 
 .ace_keyword.ace_operator {
-  font-style: normal;
+  font-style: normal !important;
   color: #ffff00;
 }
 
