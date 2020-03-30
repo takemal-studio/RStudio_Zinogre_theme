@@ -78,4 +78,4 @@ takemal-studio
   - see LICENSE
 
 - Copyright
-  - This repo uses material from the [Zinogre Photo Gallery](https://monsterhunter.fandom.com/wiki/Zinogre_Photo_Gallery) on the Monster Hunter Wiki at  [Fandom](https://www.fandom.com/) and is licensed under the Creative Commons Attribution-Share Alike License.
+  - This repo uses material from the [Zinogre Photo Gallery](https://monsterhunter.fandom.com/wiki/Zinogre_Photo_Gallery) on the Monster Hunter Wiki at  [Fandom](https://www.fandom.com/) and is licensed under the [Creative Commons Attribution-Share Alike License](https://creativecommons.org/licenses/by-sa/3.0/).
